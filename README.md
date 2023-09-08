@@ -22,12 +22,12 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="github contribution grid particle animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
+# Let's Connect 
 
 <div align="center">
  <a href="https://www.linkedin.com/in/aditya-lad-609586226/" target="_blank">
