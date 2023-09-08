@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 
 
+<div id="header" align="center" >
+   
+  <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
+     EAT -> CODE -> SLEEP -> REPEAT
+     <br>
+     </p>
+</div> 
+
+
+
 ### Hey Tarun here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=tarunnnrathoddd&color=FAC151) 
 
@@ -22,7 +32,7 @@ Here are some ideas to get you started:
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
 
-☘️ Checkout my Portfolio at <a href="https://tarunnnrathoddd.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
+☘️ Checkout my Portfolio at <a href="https://tarunnnrathoddd.github.io/portfoliowebsite/" rel="nofollow">TarunRathod.com</a>
 
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
