@@ -23,7 +23,7 @@
   />
   <img
     alt="github contribution grid particle animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://fonts.googleapis.com/css?family=Coustard:900&display=swap"
   />
 </picture>
 
