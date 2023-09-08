@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   />
 </picture>
 
-# Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
+# Let's Connect 
 
 <div align="center">
  <a href="https://www.linkedin.com/in/aditya-lad-609586226/" target="_blank">
