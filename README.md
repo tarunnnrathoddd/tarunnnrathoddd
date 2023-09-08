@@ -117,8 +117,6 @@
 <br>
 
 
-![Snake animation](https://github.com/tarunnnrathoddd/tarunnnrathoddd/blob/output/github-contribution-grid-snake.svg)
-
 Leave a ⭐  [Here](https://github.com/tarunnnrathoddd/tarunnnrathoddd) if you like 😁
 
 
