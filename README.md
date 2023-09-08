@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tarunnnrathoddd/tarunnnrathoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center" >
-   
-  <p style="font-weight: bold; font-family: 'cursive'; font-size: 24px; text-transform: uppercase; letter-spacing: 3px;">
-     EAT -> CODE -> SLEEP -> REPEAT
-     <br>
-     </p>
-</div> 
 
 
 
@@ -74,7 +65,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="hhttps://www.instagram.com/_.tarunnn.rathoddd._" target="_blank">
+<a href="https://www.instagram.com/_.tarunnn.rathoddd._" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Spyware007 Instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/tarunrathod00805" target="_blank">
