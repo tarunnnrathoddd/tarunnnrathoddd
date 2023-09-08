@@ -3,13 +3,13 @@
 ### Hey Tarun here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=tarunnnrathoddd&color=FAC151) 
 
-👨‍💻 I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
+👨‍💻 I am a student web developer and user interface/user experience designer, providing the world with user experience through my Design Thinking skills.
 
-🚀 Eager to collaborate and contribute as a team player to innovative projects. 
+🚀 I'm passionate about working together and contributing to creative endeavors as part of a team.
 
 ☘️ Checkout my Portfolio at <a href="https://tarunnnrathoddd.github.io/portfoliowebsite/" rel="nofollow" target="_blank">TarunRathod.com</a>
 
-🌐 Seeking opportunities to apply my skills and grow in the tech industry.
+🌐 I am looking for ways to leverage my abilities and advance in the technology sector.
 
 # Let's Connect 
 
