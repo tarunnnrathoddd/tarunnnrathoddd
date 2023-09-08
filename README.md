@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🚀 Eager to collaborate and contribute as a team player to innovative projects. 
 
-☘️ Checkout my Portfolio at <a href="https://adityalad-25.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
+☘️ Checkout my Portfolio at <a href="https://tarunnnrathoddd.github.io/portfoliowebsite/" rel="nofollow">Adityalad.com</a>
 
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
