@@ -11,22 +11,6 @@
 
 🌐 Seeking opportunities to apply my skills and grow in the tech industry.
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid particle animation"
-    src="https://fonts.googleapis.com/css?family=Coustard:900&display=swap"
-  />
-</picture>
-
 # Let's Connect 
 
 <div align="center">
