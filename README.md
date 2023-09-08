@@ -14,7 +14,7 @@
 # Let's Connect 
 
 <div align="center">
- <a href="https://www.linkedin.com/in/aditya-lad-609586226/" target="_blank">
+ <a href="https://www.linkedin.com/in/tarun-rathod-aa7ab7223/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
 </a>
   
