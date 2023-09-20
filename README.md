@@ -3,11 +3,10 @@
 ### Hey Tarun here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=tarunnnrathoddd&color=FAC151) 
 
-👨‍💻 I am a student web developer and user interface/user experience designer, providing the world with user experience through my Design Thinking skills.
+👨‍💻 I am a student web developer and user experience designer, providing the world with user experience through my Design Thinking skills.
 
 🚀 I'm passionate about working together and contributing to creative endeavors as part of a team.
 
-☘️ Checkout my Portfolio at <a href="https://tarunnnrathoddd.github.io/portfoliowebsite/" rel="nofollow" target="_blank">TarunRathod.com</a>
 
 🌐 I am looking for ways to leverage my abilities and advance in the technology sector.
 
@@ -25,10 +24,6 @@
  <a href="https://twitter.com/TarunRatho84449" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
 </a>
-
-<!-- <a href="https://adityalad2003.hashnode.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=Spyware hashnode style="margin-bottom:5px;">
-</a> -->
 
 <a href="mailto:tarunrathod00805@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
