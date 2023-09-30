@@ -8,8 +8,8 @@
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -24,7 +24,7 @@
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
 <div align="center">
- <a href="https://www.linkedin.com/in/aditya-lad-609586226/" target="_blank">
+ <a href="https://www.linkedin.com/in/tarun-rathod-aa7ab7223" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
 </a>
   
