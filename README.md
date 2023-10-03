@@ -71,8 +71,6 @@
 
 <br/>
 
-
-
 # 🕸 Web Tech Stack <img src="./img/web.gif" height="38px">
 
 <div align="left">
