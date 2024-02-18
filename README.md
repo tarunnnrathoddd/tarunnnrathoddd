@@ -42,25 +42,6 @@
 
 <br/>
 
-### 🔥 My Stats
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%; padding-right: 10px;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunnnrathoddd&layout=compact" alt="Top Langs" style="width: 100%; height: 100%;">
-      </a>
-    </td>
-    <td style="width: 40%; padding-left: 10px;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunnnrathoddd&theme=dark" alt="GitHub Streak" style="width: 100%; height: 100%;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
 
 # 🕸 Web Tech Stack <img src="./img/web.gif" height="38px">
 
