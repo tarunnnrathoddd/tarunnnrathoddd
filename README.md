@@ -1,3 +1,14 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
+</picture>
+<h1 align="center">Hi 👋, I'm Mr. Tarun Rathod</h1>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibsamiul&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrathod" /> </p>
 
 ### Hey Tarun here 👋    
 ![GitHub Views](https://komarev.com/ghpvc/?username=tarunnnrathoddd&color=FAC151) 
@@ -5,20 +16,6 @@
 👨‍💻 I am a Student and Web Developer facilitating the world with User Experience with my Design Thinking Skills.
 
 ☘️ Checkout my Portfolio at <a href="https://my-portfolio-website-b7y2-6cfu8wha6-taruns-projects-2fc2b54d.vercel.app/" rel="nofollow">TarunRathod.com</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
-</picture>
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
-
-<h1 align="center">Hi 👋, I'm Mr. Taarun Rathod</h1>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibsamiul&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrathod" /> </p>
 
 - 🌱 I’m currently learning **Java and CPP**
 
