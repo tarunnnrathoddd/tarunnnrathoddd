@@ -1,4 +1,4 @@
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
+
 ![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake-dark.svg">
@@ -6,6 +6,7 @@
   
 </picture>
 <h1 align="center">Hi 👋, I'm Mr. Tarun Rathod</h1>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/preetsuthar17/preetsuthar17/output/github-contribution-grid-snake.svg">
    
 ![GitHub Views](https://komarev.com/ghpvc/?username=tarunnnrathoddd&color=FAC151) 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
