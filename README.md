@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunnnrathoddd" alt="tarunnnrathoddd" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJs,DSA.**
 
 - 👨‍💻 All of my projects are available at [bento.me/tarunrathod](bento.me/tarunrathod)
 
 - 📫 How to reach me **tarunrathod00805@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FTRCT69cx74WaH-bIUxHM2UJsvdlUaPZ/view?usp=sharing](https://drive.google.com/file/d/1FTRCT69cx74WaH-bIUxHM2UJsvdlUaPZ/view?usp=sharing)
+
+- ⚡ Hobbies **Singing, Designing, Sketching, Football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
