@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **ReactJs,DSA.**
 
 - 👨‍💻 All of my projects are available at [bento.me/tarunrathod](bento.me/tarunrathod)
+[https://tarunrathod.vercel.app/](https://tarunrathod.vercel.app/)
 
 - 📫 How to reach me **tarunrathod00805@gmail.com**
 
