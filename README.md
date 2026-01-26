@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarunnnrathoddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunnnrathoddd" height="30" width="40" /></a>
-<a href="https://instagram.com/tarunnn.rathoddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunnn.rathoddd" height="30" width="40" /></a>
+<a href="https://instagram.com/tarunrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunrathod.me" height="30" width="40" /></a>
 <a href="https://www.behance.net/tarunrathod6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tarunrathod6" height="30" width="40" /></a>
 </p>
 
