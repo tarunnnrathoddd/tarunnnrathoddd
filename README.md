@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunnnrathoddd" alt="tarunnnrathoddd" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,DSA.**
+- 🌱 I’m currently learning **Frontend Frameworks and DSA.**
 
 - 👨‍💻 All of my projects are available at [bento.me/tarunrathod](bento.me/tarunrathod),
 [https://tarunrathod.vercel.app/](https://tarunrathod.vercel.app/)
